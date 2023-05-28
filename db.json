@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "ABC",
+      "salary": "$999",
+      "company": "Google",
+      "id": 12
+    },
+    {
+      "name": "PQR",
+      "salary": "$888",
+      "company": "Meta",
+      "id": 13
+    },
+    {
+      "name": "RPS",
+      "salary": "$777",
+      "company": "Apple",
+      "id": 14
+    },
+    {
+      "name": "XYZ",
+      "salary": "$666",
+      "company": "Microsoft",
+      "id": 15
+    }
+  ]
+}
